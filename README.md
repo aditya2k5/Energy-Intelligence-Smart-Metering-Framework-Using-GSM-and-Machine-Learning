@@ -40,7 +40,8 @@ The prepaid energy meter uses a real-time clock to apply different tariffs durin
 ## Machine Learning
 A robust machine learning framework was developed for
 monthly electrical load forecasting using environmental and
-temporal predictor
+temporal predictor.
+
 The detailed development of this Machine Learning model - (https://github.com/aditya2k5/Forecasting-electric-load-using_ML.git)
 
 # Schamtic Diagram 
