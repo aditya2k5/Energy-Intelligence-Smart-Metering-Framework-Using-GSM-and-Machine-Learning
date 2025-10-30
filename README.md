@@ -37,6 +37,12 @@ The GSM-based prepaid energy meter detects power theft using sensors and updates
 ## Tariff Calculation
 The prepaid energy meter uses a real-time clock to apply different tariffs during peak (6–10 PM) and off-peak hours, charging higher rates when demand is high. This time-based pricing encourages efficient energy use, helps manage load, and stabilizes the grid by monitoring consumption and billing accordingly in real-time.
 
+## Machine Learning
+A robust machine learning framework was developed for
+monthly electrical load forecasting using environmental and
+temporal predictor
+The detailed development of this Machine Learning model - (https://github.com/aditya2k5/Forecasting-electric-load-using_ML.git)
+
 # Schamtic Diagram 
 <img width="648" height="367" alt="image" src="https://github.com/user-attachments/assets/323b5945-6205-4fd0-81e4-83fbf9ee69be" />
 
