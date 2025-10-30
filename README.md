@@ -1,8 +1,7 @@
 # Energy Intelligence Smart Metering Framework Using GSM and Machine-Learning
 
 # Why This Project 
-With the escalation of energy demand and the prolif-
-eration of power theft—especially in residential and institutional
+With the escalation of energy demand and the proliferation of power theft—especially in residential and institutional
 settings intelligent energy management solutions have become
 imperative. Conventional postpaid metering practices suffer from
 inefficiencies related to manual readings, delayed anomaly detec-
