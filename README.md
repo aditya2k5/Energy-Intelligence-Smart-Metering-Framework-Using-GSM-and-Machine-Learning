@@ -47,4 +47,6 @@ The detailed development of this Machine Learning model - (https://github.com/ad
 # Schamtic Diagram 
 <img width="648" height="367" alt="image" src="https://github.com/user-attachments/assets/323b5945-6205-4fd0-81e4-83fbf9ee69be" />
 
-# Result
+# Physical Hardware Circuit 
+<img width="349" height="288" alt="image" src="https://github.com/user-attachments/assets/ac845d6c-41c3-439e-93a5-93987627ad69" />
+
